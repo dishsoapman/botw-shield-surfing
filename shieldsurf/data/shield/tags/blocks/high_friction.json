@@ -1,0 +1,9 @@
+{
+  "values":[
+				"#minecraft:mineable/pickaxe",
+        "#minecraft:beacon_base_blocks",
+        "#minecraft:dragon_immune",
+        "#minecraft:needs_diamond_tool",
+        "#minecraft:wooden_slabs"
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "condition": "minecraft:weather_check",
+    "thundering": false
+  },
+  {
+    "condition": "minecraft:weather_check",
+    "raining": false
+  }
+]

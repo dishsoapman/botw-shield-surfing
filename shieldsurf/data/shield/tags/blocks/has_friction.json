@@ -1,0 +1,7 @@
+{
+  "values":[
+				"#shield:low_friction",
+        "#shield:med_friction",
+        "#shield:high_friction"
+  ]
+}
