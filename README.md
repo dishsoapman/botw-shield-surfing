@@ -1,7 +1,7 @@
 # botw-shield-surfing
 
 shield surfing mechanic from breath of the wild/tears of the kingdom
-by dishsoapman
+  by dishsoapman
 
 usage:
   use any shield and sprint + block with shield + jump + drop shield to start surfing
